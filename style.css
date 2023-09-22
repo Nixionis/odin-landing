@@ -194,3 +194,52 @@ header ul a {
 }
 
 /* action section */
+
+.action-section {
+  height: 300px;
+  color: white;
+}
+
+.action-section .page-view-container {
+  justify-content: center;
+}
+
+.action-container {
+  background-color: #3882f6;
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 20px;
+
+  width: 100%;
+  padding: 60px 120px;
+}
+
+.action-main-text {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.action-secondary-text {
+  font-size: 20px;
+  color: rgb(225, 225, 225);
+}
+
+.action-signup-button {
+  background-color: #3882f6;
+  border: 3px solid white;
+  border-radius: 10px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  text-wrap: nowrap;
+
+  flex-shrink: 0;
+
+  padding: 10px 32px;
+  cursor: pointer;
+}
