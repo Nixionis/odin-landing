@@ -64,7 +64,6 @@ header ul a {
 
 .hero-section .page-view-container {
   align-items: stretch;
-  flex-wrap: wrap;
   gap: 50px;
 }
 
@@ -106,7 +105,6 @@ header ul a {
   flex: 1;
   display: flex;
   align-items: center;
-  flex-basis: 100px;
 }
 
 .splash-image {
