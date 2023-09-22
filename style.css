@@ -59,12 +59,14 @@ header ul a {
 
 .hero-section {
   background-color: #1f2937;
-  height: 450px;
+  padding: 100px 0;
 }
 
 .hero-section .page-view-container {
   align-items: stretch;
   gap: 50px;
+
+  flex-wrap: wrap;
 }
 
 .hero-div {
@@ -105,6 +107,7 @@ header ul a {
   flex: 1;
   display: flex;
   align-items: center;
+  flex-basis: 150px;
 }
 
 .splash-image {
@@ -197,7 +200,7 @@ header ul a {
 /* action section */
 
 .action-section {
-  height: 300px;
+  padding: 75px 0;
   color: white;
 }
 
