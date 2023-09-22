@@ -2,4 +2,4 @@
 
 Landing page from odin projects.
 
-made with flexbox, has responsive layout without any media quaries.
+Made with flexbox, has responsive layout without any media quaries.
